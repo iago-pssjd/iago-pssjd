@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 -->
 
 [![Research gate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=flat-square&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Iago-Gine-Vazquez)
-[![ORCiD](https://img.shields.io/badge/-ORCiD-green.svg?style=flat-square&logo=orcid&colorB=green&labelColor=white)](https://orcid.org/0000-0002-6725-2638)
+[![ORCiD](https://img.shields.io/badge/-ORCiD-green.svg?style=flat-square&logo=orcid&colorB=gray&labelColor=white)](https://orcid.org/0000-0002-6725-2638)
