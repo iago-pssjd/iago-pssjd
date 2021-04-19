@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 
 [![Research gate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=flat-square&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Iago-Gine-Vazquez)
 
+[![Zotero](https://img.shields.io/badge/-Zotero-green.svg?style=flat-square&logo=zotero&colorB=gray&labelColor=white)](https://www.zotero.org/iagogv)
+
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-green.svg?style=flat-square&logo=stackoverflow&colorB=gray&labelColor=white)](https://stackoverflow.com/users/997979/iago)
