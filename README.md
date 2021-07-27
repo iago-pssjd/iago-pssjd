@@ -31,3 +31,4 @@ Here are some ideas to get you started:
 
 [![Zotero](https://img.shields.io/badge/-Zotero-green.svg?style=flat-square&logo=zotero&colorB=gray&labelColor=white&logoColor=CC2936)](https://www.zotero.org/iagogv)
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=iago-pssjd&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
