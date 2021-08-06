@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 [![Zotero](https://img.shields.io/badge/-Zotero-green.svg?style=flat-square&logo=zotero&colorB=gray&labelColor=white&logoColor=CC2936)](https://www.zotero.org/iagogv)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Iago67522285?label=%20%40iago-pssjd&style=flat-square&colorB=gray&labelColor=white&logo=twitter)](https://twitter.com/Iago67522285)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Iago67522285?style=flat-square&colorB=gray&labelColor=white&logo=twitter)](https://twitter.com/Iago67522285)
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=iago-pssjd&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
