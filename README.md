@@ -1,6 +1,7 @@
 ### Hi there, I'm [Iago!](https://iago-pssjd.github.io) 👋
 
 - 🔭 I’m currently working as Data Analyst with Health/epidemiological data.
+- 💾 **Tools:** R, RMarkdown, Python, GNU/Linux, ViM, Sublime Text, Emacs, RStudio, Visual Studio Code
 - 🌱 I’m currently learning *Rust* programming language.
 
 <!--
