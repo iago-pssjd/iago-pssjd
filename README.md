@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as Data Analyst with Health/epidemiological data.
 - 💾 **Tools:** R, RMarkdown, Python, C, ViM, Sublime Text, Emacs, RStudio, Visual Studio Code, GNU/Linux, Windows 10
-- 🌱 I’m currently learning *Rust* programming language.
+- 🌱 I’m currently learning *Rust* programming language and *Docker*.
 
 <!--
 **iago-pssjd/iago-pssjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-green.svg?style=flat-square&logo=stackoverflow&colorB=gray&labelColor=white)](https://stackoverflow.com/users/997979/iago)
 
 [![Zotero](https://img.shields.io/badge/-Zotero-green.svg?style=flat-square&logo=zotero&colorB=gray&labelColor=white&logoColor=CC2936)](https://www.zotero.org/iagogv)
+
+[![Docker Hub](https://img.shields.io/badge/-dockerhub-green.svg?style=flat-square&logo=docker&colorB=gray&labelColor=white)](https://hub.docker.com/u/iagogv)
+
+[![GitLab](https://img.shields.io/badge/-GitLab-green.svg?style=flat-square&logo=gitlab&colorB=gray&labelColor=white)](https://gitlab.com/iagogv)
 
 [![Twitter](https://img.shields.io/twitter/follow/Iago67522285?label=&style=flat-square&colorB=gray&labelColor=white&logo=twitter)](https://twitter.com/Iago67522285)
 
