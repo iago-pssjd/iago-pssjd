@@ -1,4 +1,4 @@
-### [Iago!](https://iago-pssjd.github.io)
+### [My digital profile](https://iago-pssjd.github.io)
 
 - 🔭 I’m currently working as Data Analyst with Health/epidemiological data.
 - 💾 **Tools:** R, RMarkdown, Python, C, ViM, Sublime Text, Emacs, RStudio, Visual Studio Code, GNU/Linux, Windows 10
