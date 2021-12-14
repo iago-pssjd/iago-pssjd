@@ -1,5 +1,6 @@
 ### [My digital profile](https://iago-pssjd.github.io)
 
+- My name is **Iago**. I am a PhD. in Mathematics.
 - 🔭 I’m currently working as Data Analyst with Health/epidemiological data.
 - 💾 **Tools:** R, RMarkdown, Python, C, ViM, Sublime Text, Emacs, RStudio, Visual Studio Code, GNU/Linux, Windows 10
 - 🌱 I’m currently learning *Rust* programming language and *Docker*.
