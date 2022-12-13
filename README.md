@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 [![My github stats](https://github-readme-stats.vercel.app/api?username=iago-pssjd&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <link rel="me" href="https://social.vivaldi.net/@IGVazquez">
+<a rel="me" href="https://social.vivaldi.net/@IGVazquez"></a>
 
 <!--[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iago-pssjd&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)-->
 
