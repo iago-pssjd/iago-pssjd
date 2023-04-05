@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 
 [![Zotero](https://img.shields.io/badge/-Zotero-green.svg?style=flat-square&logo=zotero&colorB=gray&labelColor=white&logoColor=CC2936)](https://www.zotero.org/iagogv)
 
-[![Docker Hub](https://img.shields.io/badge/-dockerhub-green.svg?style=flat-square&logo=docker&colorB=gray&labelColor=white)](https://hub.docker.com/u/iagogv)
+[![Docker Hub](https://img.shields.io/badge/-DockerHub-green.svg?style=flat-square&logo=docker&colorB=gray&labelColor=white)](https://hub.docker.com/u/iagogv)
 
 [![GitLab](https://img.shields.io/badge/-GitLab-green.svg?style=flat-square&logo=gitlab&colorB=gray&labelColor=white)](https://gitlab.com/iagogv)
 
-[![Twitter](https://img.shields.io/twitter/follow/Iago67522285?label=&style=flat-square&colorB=gray&labelColor=white&logo=twitter)](https://twitter.com/Iago67522285)
+[![Twitter](https://img.shields.io/badge/-Twitter-green.svg?style=flat-square&colorB=gray&labelColor=white&logo=twitter)](https://twitter.com/Iago67522285)
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=iago-pssjd&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
