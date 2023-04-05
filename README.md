@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 
 [![Twitter](https://img.shields.io/badge/-Twitter-green.svg?style=flat-square&colorB=gray&labelColor=white&logo=twitter)](https://twitter.com/Iago67522285)
 
+[![Mastodon](https://img.shields.io/badge/-Mastodon-green.svg?style=flat-square&colorB=gray&labelColor=white&logo=mastodon)](https://social.vivaldi.net/@IGVazquez)
+
 [![My github stats](https://github-readme-stats.vercel.app/api?username=iago-pssjd&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <link rel="me" href="https://social.vivaldi.net/@IGVazquez">
