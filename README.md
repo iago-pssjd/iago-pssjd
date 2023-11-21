@@ -45,14 +45,15 @@ Here are some ideas to get you started:
 
 [![Mastodon](https://img.shields.io/badge/-Mastodon-green.svg?style=flat-square&colorB=gray&labelColor=white&logo=mastodon)](https://social.vivaldi.net/@IGVazquez)
 
+
+**Update**
+
+You see below my activity on Github has declined last months. This is due to that currently I am working mainly with GitLab (see my account in link above), where I placed my main projects.
+
 [![My github stats](https://github-readme-stats.vercel.app/api?username=iago-pssjd&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <link rel="me" href="https://social.vivaldi.net/@IGVazquez">
 <a rel="me" href="https://social.vivaldi.net/@IGVazquez"></a>
-
-**Update**
-
-You see below my activity on Github has declined last months. This is due to that currently I am working mainly with Gitlab (see my account in link above), where I placed my main projects.
 
 <!--[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iago-pssjd&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)-->
 
