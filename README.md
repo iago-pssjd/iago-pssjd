@@ -4,9 +4,11 @@
 - 🔭 I’m currently working as Data Analyst with Health/epidemiological data.
 - 💾 **Tools:** R, RMarkdown, Python, C, ViM, Sublime Text, Emacs, RStudio, Visual Studio Code, GNU/Linux, Windows 10
 - 🌱 I’m currently learning *Rust* programming language and *Docker*.
-- Two R packages on CRAN:
+- Authored two R packages on CRAN:
     + <a href="https://CRAN.R-project.org/package=GramQuad">GramQuad</a>
     + <a href="https://CRAN.R-project.org/package=trouBBlme4SolveR">trouBBlme4SolveR</a>
+- Maintenance of a package on CRAN:
+    + <a href="https://CRAN.R-project.org/package=clusterCrit">clusterCrit</a>
 
 <!--
 **iago-pssjd/iago-pssjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
