@@ -15,6 +15,7 @@
     + <a href="https://CRAN.R-project.org/package=bbmle">bbmle</a> (minor)
 - Contributions to some other packages. Non listed in the DESCRIPTION file of:
     + <a href="https://CRAN.R-project.org/package=summarytools">summarytools</a>
+    + <a href="https://CRAN.R-project.org/package=lme4">lme4</a>
     + <a href="https://CRAN.R-project.org/package=sjlabelled">sjlabelled</a> (minor)
     + <a href="https://CRAN.R-project.org/package=labelled">labelled</a> (minor)
     + <a href="https://CRAN.R-project.org/package=sjPlot">sjPlot</a> (minor)
