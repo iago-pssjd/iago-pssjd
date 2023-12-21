@@ -9,6 +9,11 @@
     + <a href="https://CRAN.R-project.org/package=trouBBlme4SolveR">trouBBlme4SolveR</a>
 - Maintenance of a package on CRAN:
     + <a href="https://CRAN.R-project.org/package=clusterCrit">clusterCrit</a>
+- Contributions to some other packages. Listed in the DESCRIPTION file of
+    + <a href="https://CRAN.R-project.org/package=bbmle">bbmle</a>
+    + <a href="https://CRAN.R-project.org/package=emmeans">emmeans</a>
+    + <a href="https://CRAN.R-project.org/package=sjmisc">sjmisc</a>
+
 
 <!--
 **iago-pssjd/iago-pssjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
