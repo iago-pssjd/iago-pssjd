@@ -7,9 +7,10 @@
 - Authored two R packages on CRAN:
     + <a href="https://CRAN.R-project.org/package=GramQuad">GramQuad</a>
     + <a href="https://CRAN.R-project.org/package=trouBBlme4SolveR">trouBBlme4SolveR</a>
-- Maintenance of two R packages on CRAN:
+- Maintenance of three R packages on CRAN:
     + <a href="https://CRAN.R-project.org/package=clusterCrit">clusterCrit</a>
     + <a href="https://CRAN.R-project.org/package=boxcoxmix">boxcoxmix</a>
+    + <a href="https://CRAN.R-project.org/package=kedd">kedd</a>
 - Contributions to some other R packages. Listed in the DESCRIPTION file of:
     + <a href="https://CRAN.R-project.org/package=sjmisc">sjmisc</a>
     + <a href="https://CRAN.R-project.org/package=emmeans">emmeans</a> (minor)
