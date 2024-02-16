@@ -58,8 +58,6 @@ Here are some ideas to get you started:
 
 [![GitLab](https://img.shields.io/badge/-GitLab-green.svg?style=flat-square&logo=gitlab&colorB=gray&labelColor=white)](https://gitlab.com/iagogv)
 
-[![Twitter](https://img.shields.io/badge/-Twitter-green.svg?style=flat-square&colorB=gray&labelColor=white&logo=twitter)](https://twitter.com/Iago67522285)
-
 [![Mastodon](https://img.shields.io/badge/-Mastodon-green.svg?style=flat-square&colorB=gray&labelColor=white&logo=mastodon)](https://social.vivaldi.net/@IGVazquez)
 
 
