@@ -12,6 +12,7 @@
     + <a href="https://CRAN.R-project.org/package=boxcoxmix">boxcoxmix</a>
     + <a href="https://CRAN.R-project.org/package=kedd">kedd</a>
 - Contributions to some other R packages. Listed in the DESCRIPTION file of:
+    + <a href="https://CRAN.R-project.org/package=data.table">data.table</a>
     + <a href="https://CRAN.R-project.org/package=sjmisc">sjmisc</a>
     + <a href="https://CRAN.R-project.org/package=emmeans">emmeans</a> (minor)
     + <a href="https://CRAN.R-project.org/package=bbmle">bbmle</a> (minor)
